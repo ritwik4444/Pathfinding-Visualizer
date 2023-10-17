@@ -1,6 +1,6 @@
-# Pathfinding Visualizer
+# Pathfinding-Visualizer!
 
-Welcome to Pathfinding Visualizer! I built this application because I was fascinated by pathfinding algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!): https://clementmihailescu.github.io/Pathfinding-Visualizer/
+Welcome to our Pathfinding Visualizer! This innovative tool was crafted out of a deep fascination for the intricate world of pathfinding algorithms. Our goal is to offer you a dynamic platform where you can witness these algorithms in action. Feel free to dive in and explore the fascinating realm of pathfinding through our visualization tool.
 
 ## Meet the Algorithms
 
